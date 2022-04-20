@@ -1,0 +1,1 @@
+DELETE FROM Pacientas WHERE Nr = 7;

@@ -1,0 +1,1 @@
+DELETE FROM Pacientas WHERE Paciento_Nr = '10617';
